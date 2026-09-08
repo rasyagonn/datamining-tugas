@@ -1,6 +1,6 @@
 # Data Mining - Tugas
 
-Repositori ini berisi kumpulan tugas untuk mata kuliah Data Mining, berfokus pada teknik pengumpulan data dan analisis awal.
+Repositori ini berisi kumpulan tugas untuk mata kuliah Data Mining
 
 ## Struktur Direktori
 
